@@ -4,7 +4,7 @@
   <img src="./banner.png" alt="Mr.Pasam Banner"/>
 </p>
 
-<h3 align="center">Hi 👋 I'm Manh100k</h3>
+<h3 align="center">Hi 👋 I'm Mr.Pasam </h3>
 
 <p align="center">
   <strong>Web3 Contributor | Testnet Hunter | Community Builder</strong>
